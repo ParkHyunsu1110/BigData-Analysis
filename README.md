@@ -9,6 +9,7 @@
 7. 2021-10-27 MachineLearning
 8. 2021-11-01 Classification
 9. 2021-11-03 Classification
+10. 2021-11-08 Classification
 
 ## HomeWork
 1. HW1_201858036_박현수
