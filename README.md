@@ -10,6 +10,8 @@
 8. 2021-11-01 Classification
 9. 2021-11-03 Classification
 10. 2021-11-08 Classification
+11. 2021-11-08 Classification
+12. 2021-11-15 Preprocessing
 
 ## HomeWork
 1. HW1_201858036_박현수
