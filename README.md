@@ -12,11 +12,15 @@
 10. 2021-11-08 Classification
 11. 2021-11-08 Classification
 12. 2021-11-15 Preprocessing
+13. 2021-11-24 MLP
+14. 2021-11-29 MLP
+15. 2021-11-29 TensorFlow
 
 ## HomeWork
 1. HW1_201858036_박현수
 2. HW2_201858036_박현수
 3. HW3_201858036_박현수
+4. HW4_201858036_박현수
 
 ## Term
 ### MidTerm
