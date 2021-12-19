@@ -26,3 +26,4 @@
 ## Term
 ### MidTerm
 1. MidTerm_201858036_박현수
+2. FinalTerm_201858036_박현수
