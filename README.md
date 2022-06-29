@@ -23,7 +23,9 @@
 3. HW3_201858036_박현수
 4. HW4_201858036_박현수
 
-## Term
+## Terms
 ### MidTerm
 1. MidTerm_201858036_박현수
-2. FinalTerm_201858036_박현수
+
+### FinalTerm
+1. FinalTerm_201858036_박현수
